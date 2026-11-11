@@ -43,7 +43,7 @@ arch mipsel-3.4_kn 200
 Однако, приведенный выше совет не решает проблему установки Entware с нуля, так как при этом загружаются пакеты из репозитория. Если репозиторий недоступен, то установка зависает. На [странице релизов](https://github.com/jameszeroX/Entware-with-Mirror/releases) выложил перепакованные дистрибутивы Entware с уже прописанным зеркалом, они позволят выполнить установку без ошибок в условиях недоступности официального репозитория.
 
 ### Справка
-Для моделей Titan SE (NC-4210), Atlas SE (NC-4310), Peak (KN-2710), Ultra (KN-1811/NC-1812), Giga (KN-1012/NC-1012/NC-1013), Hopper (KN-3811), Hopper SE (KN-3812), Hopper 4G+ (NC-2312) и Hero 5G (NC-4110) используйте архив aarch64 — [aarch64-installer.tar.gz](https://github.com/jameszeroX/Entware-with-Mirror/releases/latest/download/aarch64-installer.tar.gz)
+Для моделей Titan SE (NC-4210), Peak (KN-2710), Ultra (KN-1811/NC-1812), Giga (KN-1012/NC-1012/NC-1013), Hopper (KN-3811), Hopper SE (KN-3812), Hopper 4G+ (NC-2312) и Hero 5G (NC-4110) используйте архив aarch64 — [aarch64-installer.tar.gz](https://github.com/jameszeroX/Entware-with-Mirror/releases/latest/download/aarch64-installer.tar.gz)
 
 Для моделей 4G (KN-1212), Omni (KN-1410), Extra (KN-1710/1711/1713), Giga (KN-1010/1011), Ultra (KN-1810), Viva (KN-1910/1912/1913/NC-1913), Giant (KN-2610), Hero 4G (KN-2310/2311), Hopper (KN-3810) и Zyxel Keenetic II / III, Extra, Extra II, Giga II / III, Omni, Omni II, Viva, Ultra, Ultra II используйте для установки архив mipsel — [mipsel-installer.tar.gz](https://github.com/jameszeroX/Entware-with-Mirror/releases/latest/download/mipsel-installer.tar.gz)
 
